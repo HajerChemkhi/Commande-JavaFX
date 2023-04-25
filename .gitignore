@@ -1,0 +1,15 @@
+# JavaFX build artifacts
+bin/
+out/
+build/
+dist/
+nbproject/private/
+build.xml
+nbbuild/
+nbbuild/
+nbproject/
+.classpath
+.project
+.idea/
+*.iml
+.DS_Store
